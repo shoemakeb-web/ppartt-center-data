@@ -1,1 +1,291 @@
-
+[
+  {
+    "id": "san-angelo",
+    "name": "San Angelo Research Extension Center",
+    "county": "Tom Green",
+    "lat": 31.5714,
+    "lng": -100.5115,
+    "proximityScore": 5,
+    "zoneLabel": "Infested Zone",
+    "timeScore": 3,
+    "daysSince": 14,
+    "hiTemp": 98,
+    "rainDaysAgo": 3,
+    "pastures": [
+      { "id": "P-1", "obstruction": 1, "animal": 1 },
+      { "id": "P-2", "obstruction": 3, "animal": 5 }
+    ]
+  },
+  {
+    "id": "read-ranch",
+    "name": "Read Ranch",
+    "county": "Crockett",
+    "lat": 30.7381,
+    "lng": -101.4485,
+    "proximityScore": 5,
+    "zoneLabel": "Infested Zone",
+    "timeScore": 3,
+    "daysSince": 18,
+    "hiTemp": 94,
+    "rainDaysAgo": 10,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 2, "animal": 3 }
+    ]
+  },
+  {
+    "id": "sonora",
+    "name": "Sonora Experiment Station",
+    "county": "Sutton",
+    "lat": 30.5702,
+    "lng": -100.6432,
+    "proximityScore": 5,
+    "zoneLabel": "Infested Zone",
+    "timeScore": 3,
+    "daysSince": 7,
+    "hiTemp": 92,
+    "rainDaysAgo": 2,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "uvalde",
+    "name": "Uvalde Research & Extension Center",
+    "county": "Uvalde",
+    "lat": 29.2097,
+    "lng": -99.7862,
+    "proximityScore": 5,
+    "zoneLabel": "Infested Zone",
+    "timeScore": 2,
+    "daysSince": 29,
+    "hiTemp": 99,
+    "rainDaysAgo": 16,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 2, "animal": 1 }
+    ]
+  },
+  {
+    "id": "weslaco",
+    "name": "Weslaco Research & Extension Center",
+    "county": "Hidalgo",
+    "lat": 26.1595,
+    "lng": -97.9908,
+    "proximityScore": 5,
+    "zoneLabel": "Infested Zone",
+    "timeScore": 3,
+    "daysSince": 5,
+    "hiTemp": 100,
+    "rainDaysAgo": 1,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "usda-ars",
+    "name": "USDA ARS (CFTRL - Moore Field)",
+    "county": "Starr",
+    "lat": 26.3725,
+    "lng": -98.5472,
+    "proximityScore": 5,
+    "zoneLabel": "Infested Zone",
+    "timeScore": 3,
+    "daysSince": 7,
+    "hiTemp": 101,
+    "rainDaysAgo": 20,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "corpus-christi",
+    "name": "Corpus Christi Research & Extension Center",
+    "county": "Nueces",
+    "lat": 27.8006,
+    "lng": -97.3964,
+    "proximityScore": 3,
+    "zoneLabel": "TAHC Adjacent Zone",
+    "timeScore": 2,
+    "daysSince": 35,
+    "hiTemp": 95,
+    "rainDaysAgo": 4,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "beeville",
+    "name": "Beeville Research & Extension Center",
+    "county": "Bee",
+    "lat": 28.4008,
+    "lng": -97.7483,
+    "proximityScore": 3,
+    "zoneLabel": "TAHC Adjacent Zone",
+    "timeScore": 2,
+    "daysSince": 30,
+    "hiTemp": 96,
+    "rainDaysAgo": 5,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "college-station",
+    "name": "College Station Main Campus & HQ",
+    "county": "Brazos",
+    "lat": 30.6280,
+    "lng": -96.3344,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 60,
+    "hiTemp": 97,
+    "rainDaysAgo": 8,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "amarillo",
+    "name": "Amarillo Research & Extension Center",
+    "county": "Potter",
+    "lat": 35.1881,
+    "lng": -101.9213,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 120,
+    "hiTemp": 91,
+    "rainDaysAgo": 12,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "beaumont",
+    "name": "Beaumont Research & Extension Center",
+    "county": "Jefferson",
+    "lat": 30.0802,
+    "lng": -94.1266,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 90,
+    "hiTemp": 93,
+    "rainDaysAgo": 2,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "dallas",
+    "name": "Dallas Research & Extension Center",
+    "county": "Dallas",
+    "lat": 32.9862,
+    "lng": -96.7591,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 100,
+    "hiTemp": 96,
+    "rainDaysAgo": 15,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "el-paso",
+    "name": "El Paso Research & Extension Center",
+    "county": "El Paso",
+    "lat": 31.6938,
+    "lng": -106.3056,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 150,
+    "hiTemp": 98,
+    "rainDaysAgo": 25,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "lubbock",
+    "name": "Lubbock Research & Extension Center",
+    "county": "Lubbock",
+    "lat": 33.6931,
+    "lng": -101.8236,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 110,
+    "hiTemp": 93,
+    "rainDaysAgo": 14,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "overton",
+    "name": "Overton Research & Extension Center",
+    "county": "Rusk",
+    "lat": 32.2741,
+    "lng": -94.9783,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 80,
+    "hiTemp": 94,
+    "rainDaysAgo": 5,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "stephenville",
+    "name": "Stephenville Research & Extension Center",
+    "county": "Erath",
+    "lat": 32.2415,
+    "lng": -98.2148,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 75,
+    "hiTemp": 96,
+    "rainDaysAgo": 9,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "temple",
+    "name": "Temple Research & Extension Center",
+    "county": "Bell",
+    "lat": 31.0485,
+    "lng": -97.3461,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 70,
+    "hiTemp": 97,
+    "rainDaysAgo": 7,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  },
+  {
+    "id": "vernon",
+    "name": "Vernon Research & Extension Center",
+    "county": "Wilbarger",
+    "lat": 34.1537,
+    "lng": -99.2882,
+    "proximityScore": 1,
+    "zoneLabel": "Within Texas",
+    "timeScore": 1,
+    "daysSince": 95,
+    "hiTemp": 95,
+    "rainDaysAgo": 11,
+    "pastures": [
+      { "id": "Pasture 1", "obstruction": 1, "animal": 1 }
+    ]
+  }
+]
